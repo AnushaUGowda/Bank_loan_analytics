@@ -73,10 +73,6 @@ This approach ensured efficient memory usage and clean data lineage.
 <img width="945" height="403" alt="{EF0C43F7-404B-430A-8006-CC65C41F9FC0}" src="https://github.com/user-attachments/assets/4a99fed9-af1c-4767-a9db-708d925a1097" />
 
 
-
-
-
-
 ---
 
 ### 3️⃣ Data Modelling (Excel)
@@ -95,27 +91,71 @@ Pivot tables and charts were created to meet business requirements.
 
 **Key KPIs:**
 
-* Year-wise Loan Amount Statistics
-    Total loan amount per year
-    Average loan amount
-    Number of loans issued
+### KPI 1: Year-wise Loan Amount Statistics
+
+**Purpose:** Analyze loan disbursement trends over time.
+
+**Metrics:**
+
+* Total loan amount issued per year
+* Average loan amount per year
+* Number of loans issued per year
+
+**Insight Value:** Helps identify growth or decline in lending activity across years.
+
   <img width="323" height="106" alt="{84C5691E-DAED-456A-B0FE-D0692748E34C}" src="https://github.com/user-attachments/assets/d57b19bf-3656-4fd1-a64f-3c6514d33488" />
+  
+---
+### KPI 2: Grade & Sub-grade Wise Revolving Balance
 
-* Grade & Sub-grade Wise Revolving Balance
-    Distribution of revolving balance across credit grades
-  <img width="81" height="311" alt="{CC9494D2-1483-45A3-B915-7B031EE51316}" src="https://github.com/user-attachments/assets/bdb8f8d8-ba6a-4b14-8160-eb5034bf7ff7" />
+**Purpose:** Understand revolving balance distribution across credit grades.
 
-*Total Payment: Verified vs Non-Verified Customers
-    Comparison of repayment amounts
+**Metrics:**
+
+* Total revolving balance by grade and sub-grade
+
+**Insight Value:** Indicates risk exposure and borrowing behavior across different credit quality segments.
+
+  <img width="81" height="311" alt="{CC9494D2-1483-45A3-B915-7B031EE51316}" src="https://github.com/user-attachments/assets/bdb8f8d8-ba6a-4b14-8160-eb5034bf7ff7" /> 
+  
+---
+### KPI 3: Total Payment – Verified vs Non-Verified Customers
+
+**Purpose:** Compare repayment contributions based on verification status.
+
+**Metrics:**
+
+* Total payment amount for verified customers
+* Total payment amount for non-verified customers
+
+**Insight Value:** Helps assess the impact of verification on repayment reliability.
     <img width="198" height="71" alt="{3482BE11-BBCD-4E04-B7C7-16A0950A630C}" src="https://github.com/user-attachments/assets/b9cd44cb-fde5-4cb5-b749-91f7e9c38972" />
 
-*State-wise & Last Credit Pull Date-wise Loan Status
-    Loan status trends across states and time
+---
+### KPI 4: State-wise & Last Credit Pull Date-wise Loan Status
+
+**Purpose:** Track loan status trends geographically and over time.
+
+**Metrics:**
+
+* Number of loans by state
+* Loan status distribution by year-month of last credit pull
+
+**Insight Value:** Identifies regional and temporal patterns in loan performance.
     <img width="105" height="342" alt="{80AEAE7B-539D-49C1-B99D-0318E22A1A0E}" src="https://github.com/user-attachments/assets/51ae9d13-dab5-42dc-9957-49b18fd2a562" />
     <img width="96" height="96" alt="{03B05FDE-2730-4DD2-8AAA-F0B63E0F0FFE}" src="https://github.com/user-attachments/assets/e4d9dc3d-d472-4f03-bc20-09dfd684a57c" />
 
-*Home Ownership vs Last Payment Date Statistics
-    Repayment behavior by ownership type
+---
+### KPI 5: Home Ownership vs Last Payment Date Statistics
+
+**Purpose:** Analyze repayment trends based on home ownership status.
+
+**Metrics:**
+
+* Number of loans by home ownership type
+* Distribution by year-month of last payment date
+
+**Insight Value:** Helps understand how asset ownership correlates with repayment behavior.
     <img width="151" height="76" alt="{C480A683-CF95-442B-B110-433C2A88A63D}" src="https://github.com/user-attachments/assets/8696e056-ec2b-4be2-acdb-f3816735829a" />
     <img width="89" height="111" alt="{702B305C-4408-4171-81DE-D2CF2C95E4B2}" src="https://github.com/user-attachments/assets/3a694856-5c92-4b95-8c73-32d8ea48c358" />
 
