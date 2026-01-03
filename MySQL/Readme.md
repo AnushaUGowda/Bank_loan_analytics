@@ -347,6 +347,7 @@ insert into state values
 ('IN','Indiana'),
 ('ME','Maine');
 ```
+State-wise & Last Credit Pull Date-wise Loan Status
 ```
 select 
 	date_format(B.last_credit_pull_date, '%Y-%m') as last_credit_pull_YM,
