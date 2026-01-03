@@ -68,6 +68,13 @@ The project demonstrates practical data analyst skills commonly used in the **fi
   * Loaded cleaned datasets as **Connection Only**
 This approach ensured efficient memory usage and clean data lineage.
 
+<img width="954" height="429" alt="{2994A316-1D68-427D-9175-65ECA2C9D79B}" src="https://github.com/user-attachments/assets/134ca281-4111-4739-a34e-4e2726727bf4" />
+
+<img width="945" height="403" alt="{EF0C43F7-404B-430A-8006-CC65C41F9FC0}" src="https://github.com/user-attachments/assets/4a99fed9-af1c-4767-a9db-708d925a1097" />
+
+
+
+
 
 
 ---
@@ -77,6 +84,8 @@ This approach ensured efficient memory usage and clean data lineage.
 * Used **Merge Query** in Power Query to combine Finance_1 and Finance_2
 * Created a single merged fact table
 * Loaded merged data as a table for analysis
+
+<img width="953" height="383" alt="{735C16C7-17BD-4B7F-96D9-AF80131AD0BD}" src="https://github.com/user-attachments/assets/09bc008e-3aa9-4da1-ace6-97b5b032b9bb" />
 
 ---
 
@@ -90,14 +99,25 @@ Pivot tables and charts were created to meet business requirements.
     Total loan amount per year
     Average loan amount
     Number of loans issued
+  <img width="323" height="106" alt="{84C5691E-DAED-456A-B0FE-D0692748E34C}" src="https://github.com/user-attachments/assets/d57b19bf-3656-4fd1-a64f-3c6514d33488" />
+
 * Grade & Sub-grade Wise Revolving Balance
     Distribution of revolving balance across credit grades
+  <img width="81" height="311" alt="{CC9494D2-1483-45A3-B915-7B031EE51316}" src="https://github.com/user-attachments/assets/bdb8f8d8-ba6a-4b14-8160-eb5034bf7ff7" />
+
 *Total Payment: Verified vs Non-Verified Customers
     Comparison of repayment amounts
+    <img width="198" height="71" alt="{3482BE11-BBCD-4E04-B7C7-16A0950A630C}" src="https://github.com/user-attachments/assets/b9cd44cb-fde5-4cb5-b749-91f7e9c38972" />
+
 *State-wise & Last Credit Pull Date-wise Loan Status
     Loan status trends across states and time
+    <img width="105" height="342" alt="{80AEAE7B-539D-49C1-B99D-0318E22A1A0E}" src="https://github.com/user-attachments/assets/51ae9d13-dab5-42dc-9957-49b18fd2a562" />
+    <img width="96" height="96" alt="{03B05FDE-2730-4DD2-8AAA-F0B63E0F0FFE}" src="https://github.com/user-attachments/assets/e4d9dc3d-d472-4f03-bc20-09dfd684a57c" />
+
 *Home Ownership vs Last Payment Date Statistics
     Repayment behavior by ownership type
+    <img width="151" height="76" alt="{C480A683-CF95-442B-B110-433C2A88A63D}" src="https://github.com/user-attachments/assets/8696e056-ec2b-4be2-acdb-f3816735829a" />
+    <img width="89" height="111" alt="{702B305C-4408-4171-81DE-D2CF2C95E4B2}" src="https://github.com/user-attachments/assets/3a694856-5c92-4b95-8c73-32d8ea48c358" />
 
 
 ---
