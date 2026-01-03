@@ -14,6 +14,8 @@ The project was executed in the following structured phases:
 
    * Converted XLSX data to CSV and loaded it into MySQL.
    * Created and managed the `Bank_Analytics` database.
+     
+**```sql**
 
      Create database Bank_Analytics;
 
@@ -45,8 +47,9 @@ The project was executed in the following structured phases:
 
 * Stored imported data with minimal transformation.
 * Date fields (`issue_d`, `last_pymnt_d`, `last_credit_pull_d`) were stored as VARCHAR to prevent import errors.
-
-  create table bank_analytics(id int,
+  
+**```sql**
+   create table bank_analytics(id int,
 							              member_id int,
                             loan_amnt int,
                             funded_amnt int,
