@@ -1,4 +1,4 @@
-<img width="1507" height="105" alt="image" src="https://github.com/user-attachments/assets/23782e65-330a-4d7a-b297-7a036d4f33c8" /># 📊 Bank Loan Analytics Project
+# 📊 Bank Loan Analytics Project
 
 ## 📌 Project Overview
 
