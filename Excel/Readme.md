@@ -174,7 +174,8 @@ An interactive Excel dashboard was built using:
 * Slicers for dynamic filtering (Year, Loan Status, Dates)
 
 📷 **Dashboard Preview:**
-<img width="1190" height="724" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7627e0a2-265f-4892-a423-2c6817984624" />
+<img width="1142" height="680" alt="Bank loan analytics dashboard" src="https://github.com/user-attachments/assets/9b9f85a4-3390-414b-bf3d-e0b3ae8ab91d" />
+
 
 
 ---
